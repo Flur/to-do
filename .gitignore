@@ -1,0 +1,5 @@
+webapp/front-end/node_modules/
+webapp/front-end/typings/
+**/__pycache__/
+#db
+.sqlite3
